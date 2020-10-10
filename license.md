@@ -1,4 +1,4 @@
-# Copyright (c) 2019  Juan J. Rojas
+# Copyright (c) 2020  Instituto Tecnologico de Costa Rica
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this hardware, software, and associated documentation files (the "Product"), to deal in the Product without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Product, and to permit persons to whom the Product is furnished to do so, subject to the following conditions:
 
