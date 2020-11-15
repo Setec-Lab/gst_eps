@@ -9,11 +9,23 @@ Electric Power System for SETECLab's Ground Station Terminal
 
 * This repository was created to develop an EPS for the SETECLab's custom GST. 
 
-### PIC16F1786 information
+### Microcontroller info
 
+* Model: PIC16F1786
 * [Datasheet](http://ww1.microchip.com/downloads/en/DeviceDoc/40001637C.pdf)
 * [Errata](http://ww1.microchip.com/downloads/en/DeviceDoc/80000553C.pdf)
 * [PICkit3 configuration](http://ww1.microchip.com/downloads/en/DeviceDoc/50002010B.pdf)
+
+### Solar panel info
+
+* Model: NewPowa NPA512
+* [Datasheet](https://drive.google.com/file/d/1qD-HLl6au3RJjTLw2Aj-8-HlnPOs6s5r/view) 
+
+
+### Electrochemical cell info 
+
+* Model: NCR18650GA
+* [Datasheet](https://www.orbtronic.com/content/Datasheet-specs-Sanyo-Panasonic-NCR18650GA-3500mah.pdf)
 
 ### How do I get set up? ###
 
